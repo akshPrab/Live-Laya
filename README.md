@@ -1,2 +1,2 @@
-Mridangam soundboard app
+Mridangam soundboard app made from scratch
 
